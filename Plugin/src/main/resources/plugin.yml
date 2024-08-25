@@ -1,5 +1,5 @@
 main: ca.nicbo.invadedlandsevents.InvadedLandsEventsPlugin
-name: InvadedLandsEvents
+name: CloudEvents
 version: ${project.version}
 description: A replica of the invadedlands.net event plugin
 author: Nicbo
